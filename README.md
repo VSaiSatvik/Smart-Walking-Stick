@@ -34,3 +34,6 @@ Passive Buzzer:
 VCC to 5V on Arduino
 GND to GND on Arduino
 Signal pin to digital pin 9 on Arduino
+
+<img width="308" alt="Screenshot 2024-07-04 at 2 37 20 PM" src="https://github.com/VSaiSatvik/Smart-Walking-Stick/assets/121491690/440e8d4f-47f9-4ee8-8a6c-3d7e9d2367c1">
+
